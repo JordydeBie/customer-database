@@ -7,7 +7,7 @@ Customer Database is a CRUD app with an intuitive UI that allows users to create
 This app presumes that you have a local host set up like MAMP or XAMPP. 
 
 ### Installation
-- copy all of the files of this repository to your htdocs folder except for this file (readme.md).
+- copy all of the files of this repository to your htdocs folder except for this file (readme.md)
 - click “Open Webstart page” on the MAMP window
 - click on the hyperlink “phpMyAdmin” in the MySQL section
 - click on the “SQL” button, use the following statement and press “GO”:  ```CREATE DATABASE customer_database;```
