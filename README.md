@@ -2,7 +2,6 @@
 Customer Database is a CRUD app with an intuitive UI that allows users to create, read, update and delete customer records. Its intended use is small businesses like restaurants, shops and so forth. Users can store information such as full name, email and telephone number. They can also add comments or remarks.
 
 ## Getting started
-This section assumes you are using MAMP. The process is extremely similar in other enviroments.
 
 ### Prerequisites
 This app presumes that you have a local host set up like MAMP or XAMPP. 
